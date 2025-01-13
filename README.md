@@ -1,0 +1,1 @@
+In this project, I tried to apply the basic skills of working with the command line, text editor and git, acquired during the course.
